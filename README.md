@@ -3,5 +3,5 @@
 Learning about CRUD in JavaScript
 - Create
 - Read
-- Updadte
+- Update
 - Delete 
